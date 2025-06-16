@@ -5,6 +5,7 @@ This project applies machine learning techniques to predict sleep disorders base
 ##  Project Structure
 
 
+  <pre> ``` 
   Sleep-Disorder-Prediction/ 
   ├── data/ 
   │ └── Sleep_health_and_lifestyle_dataset.csv 
@@ -15,7 +16,7 @@ This project applies machine learning techniques to predict sleep disorders base
   │ ├── Confusion Matrix after Hyperparameter Tuning.png 
   │ └── Top 10 Feature Importances.png
   ├── .gitignore 
-  └── README.md
+  └── README.md ``` </pre>
 
 
 ##  Dataset Overview
